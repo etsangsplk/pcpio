@@ -1,5 +1,5 @@
-# plasmagun
-Provable computing protocol, framework and test/main network(s) for massively scalable dapps with provble state transitions. In contrast to consensus based blockchain protocols, provable computing is based on strong mathematical proofs.
+# pcpio
+Provable computing protocol, framework and test/main network(s) for massively scalable dapps with provable state transitions. In contrast to consensus based blockchain protocols, provable computing is based on strong mathematical proofs, e.g. no 51% attacks or other consensus related issues possible.  
 
 ### Provable computing protocol (PCP)
 The core idea is simple, two kinds of actors (code runers), prover and verifier. To make a state transition in large decentralized network an actor (prover) runs provable transaction code. To finalise the transaction other actor (verifier) verifies that results of transaction code run is correct.  
