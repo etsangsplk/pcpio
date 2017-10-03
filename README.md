@@ -9,8 +9,8 @@ The integrity of state transitions is based on computing graph. All transaction 
 Provable computing graph (PCG) is a state transition DAG.  
 Fragments of PCG are distributed over peers network, every prover keeps its own transactions and can optionally hire other nodes to store PCG data.  
 
-### Transaction/transition code
-Transaction code execution is not limited by technology, it can be implemented as software, hardware on top of any stack and architecture.
+### Transaction/transition code (smartcontract)
+1st implementation is js, 2nd is webassembly with special security mechanisms, no gas needed.
 
 ### Integration
 Latest initiatives from most popular cryptocurrency networks are based on extensions and integrations. Good example is (ethereum plasma framework)[http://plasma.io/plasma.pdf].  
