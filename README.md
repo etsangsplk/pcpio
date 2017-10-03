@@ -13,6 +13,6 @@ Fragments of PCG are distributed over peers network, every prover keeps its own 
 1st implementation is js, 2nd is webassembly with special security mechanisms, no gas needed.
 
 ### Integration
-Latest initiatives from most popular cryptocurrency networks are based on extensions and integrations. Good example is (ethereum plasma framework)[http://plasma.io/plasma.pdf].  
+Latest initiatives from most popular cryptocurrency networks are based on extensions and integrations. Good example is [ethereum plasma framework](http://plasma.io/plasma.pdf).  
 Transition state to/from outher networks (bitcoin, ethereum, etc.) increases protection mechanisms.
 
