@@ -26,8 +26,8 @@ Latest initiatives from most popular cryptocurrency networks are based on extens
 Transition state to/from outer networks (bitcoin, ethereum, etc.) increases integrity and data protection mechanisms.
 
 ### Implementation
-jspcp - nodejs pcpio protocol implementation/ js transaction code
-gopcp - golang pcpio protocol implementation/ wasm transaction code
+jspcp - nodejs pcpio protocol implementation/ js transaction code  
+gopcp - golang pcpio protocol implementation/ wasm transaction code  
 
 ### White paper
 asap  
