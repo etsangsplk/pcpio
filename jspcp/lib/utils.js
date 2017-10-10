@@ -52,6 +52,8 @@ exports.readPassword=function(cb){
   });
 }
 
+
+
 // https://github.com/chris-rock/node-crypto-examples/blob/master/crypto-buffer.js
 
 const algorithm = 'aes-256-ctr'
@@ -74,3 +76,6 @@ exports.xor_buf=function(A,B){
   return C
 }
 
+exports.leftpad=function(s,n){
+    return "0".repeat(n-s.length)+s
+}
