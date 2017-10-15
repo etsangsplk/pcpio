@@ -35,3 +35,6 @@ gopcp - golang pcpio protocol implementation/ wasm transaction code
 ### White paper
 asap  
 
+### Ethereum Plasma
+[Scaling Ethereum with Plasma - Joseph Poon | Silicon Valley Ethereum Meetup](https://www.youtube.com/watch?v=plf-kG8jt9c)
+[The Data Availability Problem - Vitalik Buterin | Silicon Valley Ethereum Meet](https://www.youtube.com/watch?v=OJT_fR7wexw)
