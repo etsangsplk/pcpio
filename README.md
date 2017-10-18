@@ -36,8 +36,9 @@ gopcp - golang pcpio protocol implementation/ wasm transaction code
 asap  
 
 ### Links
-[Scaling Ethereum with Plasma - Joseph Poon | Silicon Valley Ethereum Meetup](https://www.youtube.com/watch?v=plf-kG8jt9c)
-[The Data Availability Problem - Vitalik Buterin | Silicon Valley Ethereum Meet](https://www.youtube.com/watch?v=OJT_fR7wexw)
-[Blockchains and Privacy through Strong Cryptography](http://www.youtube.com/watch?v=9cDFpACnK1U)
-[ZoKrates - a zkSNARK toolbox - Jacob Eberhardt](https://www.youtube.com/watch?v=_QyXreu64kQ)
-[Smart Contracts on Plasma](https://www.youtube.com/watch?v=KzyqzEtEc3I)
+[Scaling Ethereum with Plasma - Joseph Poon | Silicon Valley Ethereum Meetup](https://www.youtube.com/watch?v=plf-kG8jt9c)  
+[The Data Availability Problem - Vitalik Buterin | Silicon Valley Ethereum Meet](https://www.youtube.com/watch?v=OJT_fR7wexw)  
+[Blockchains and Privacy through Strong Cryptography](http://www.youtube.com/watch?v=9cDFpACnK1U)  
+[ZoKrates - a zkSNARK toolbox - Jacob Eberhardt](https://www.youtube.com/watch?v=_QyXreu64kQ)  
+[Smart Contracts on Plasma](https://www.youtube.com/watch?v=KzyqzEtEc3I)  
+
