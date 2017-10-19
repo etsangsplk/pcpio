@@ -2,7 +2,7 @@
 [pcpio](https://github.com/pcpio)  
 
 # pcpio
-Provable computing protocol, framework and test/main network(s) for massively scalable dapps with provable state transitions. In contrast to consensus based blockchain protocols, provable computing is based on strong mathematical proofs, e.g. no 51% attacks or other consensus related issues possible.  
+Provable computing protocol & framework for massively scalable dapps with provable state transitions. In contrast to consensus based blockchain protocols, provable computing is based on strong mathematical proofs, e.g. no 51% attacks or other consensus related issues possible.  
 
 ### Provable computing protocol (PCP)
 The core idea is simple, two kinds of actors (code runers), prover and verifier. To make a state transition in large decentralized network an actor (prover) runs provable transaction code. To finalise the transaction other actor (verifier) verifies that results of transaction code run is correct.  
@@ -28,12 +28,6 @@ Transaction code is in isolated environment (js/wasm).
 Latest initiatives from most popular cryptocurrency networks are based on extensions and integrations. Good example is [ethereum plasma framework](http://plasma.io/plasma.pdf).  
 Transition state to/from outer networks (bitcoin, ethereum, etc.) increases integrity and data protection mechanisms.
 
-### Implementation
-jspcp - nodejs pcpio protocol implementation/ js transaction code  
-gopcp - golang pcpio protocol implementation/ wasm transaction code  
-
-### White paper
-asap  
 
 ### Links
 [Scaling Ethereum with Plasma - Joseph Poon | Silicon Valley Ethereum Meetup](https://www.youtube.com/watch?v=plf-kG8jt9c)  
