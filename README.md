@@ -41,4 +41,4 @@ asap
 [Blockchains and Privacy through Strong Cryptography](http://www.youtube.com/watch?v=9cDFpACnK1U)  
 [ZoKrates - a zkSNARK toolbox - Jacob Eberhardt](https://www.youtube.com/watch?v=_QyXreu64kQ)  
 [Smart Contracts on Plasma](https://www.youtube.com/watch?v=KzyqzEtEc3I)  
-
+[Future of Blockchain](https://www.youtube.com/watch?v=zgrXgEJ0Mwc)
